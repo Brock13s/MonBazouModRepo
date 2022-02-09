@@ -1,0 +1,32 @@
+[
+  {
+    "name": "VieFacile",
+    "author": "Amenofisch#5368",
+    "imageurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/logo.png",
+    "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/MonBazou_BepInEx.dll",
+    "dllname": "MonBazou_BepInEx.dll",
+    "zipname": "",
+    "isZip": "false",
+    "disabled": "false",
+    "reason": "",
+    "version": "1.2",
+    "gameversion": "0.256",
+    "description": "Cheat Menu",
+    "releasedate": "09.02.2022"
+  },
+  {
+    "name": "ziptest",
+    "author": "Amenofisch#5368",
+    "imageurl": "",
+    "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/asd.zip",
+   	"dllname": "asd.dll",
+   	"zipname": "asd.zip",
+   	"isZip": "true",
+    "disabled": "true",
+    "reason": "Testing purposes",
+    "version": "1.0",
+    "gameversion": "0.256",
+    "description": "test",
+    "releasedate": "09.02.2022"
+  }
+]
