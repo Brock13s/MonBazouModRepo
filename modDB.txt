@@ -29,4 +29,20 @@
     "description": "test",
     "releasedate": "09.02.2022"
   }
+  ,
+  {
+    "name": "Derustable Bolts",
+    "author": "Amenofisch#5368",
+    "imageurl": "",
+    "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/derustableBolts_MonBazou.dll",
+"dllname": "derustableBolts_MonBazou.dll",
+"zipname": "",
+"isZip": "false",
+    "disabled": "false",
+    "reason": "",
+    "version": "1.0",
+    "gameversion": "0.256",
+    "description": "test",
+    "releasedate": "10.02.2022"
+  }
 ]
