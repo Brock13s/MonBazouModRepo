@@ -40,9 +40,9 @@
 "isZip": "false",
     "disabled": "false",
     "reason": "",
-    "version": "1.0",
+    "version": "1.1",
     "gameversion": "0.256",
-    "description": "test",
+    "description": "Allows you to derust your rusty bolts lol",
     "releasedate": "10.02.2022"
   }
 ]
