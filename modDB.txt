@@ -11,38 +11,52 @@
     "reason": "",
     "version": "1.2",
     "gameversion": "0.256",
-    "description": "Cheat Menu",
-    "releasedate": "09.02.2022"
+    "description": "The first ever mod made for the game. Default Keybind to open the Menu is the 'Insert' button. You can also change this by pressing the 'Open BepInEx Folder' Button on the Main page of the Mod Manager and then going into the 'config' Folder and then look for 'com.amenofisch.monbazou.viefacile.cfg' in there you can define any Key that you'd like to use!",
+    "releasedate": "11.02.2022"
   },
   {
     "name": "ziptest",
     "author": "Amenofisch#5368",
     "imageurl": "",
     "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/asd.zip",
-"dllname": "asd.dll",
-"zipname": "asd.zip",
-"isZip": "true",
+	"dllname": "asd.dll",
+	"zipname": "asd.zip",
+	"isZip": "true",
     "disabled": "true",
     "reason": "Testing purposes",
     "version": "1.0",
     "gameversion": "0.256",
     "description": "test",
-    "releasedate": "09.02.2022"
-  }
-  ,
+    "releasedate": "11.02.2022"
+  },
   {
     "name": "Derustable Bolts",
     "author": "Amenofisch#5368",
     "imageurl": "",
     "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/derustableBolts_MonBazou.dll",
-"dllname": "derustableBolts_MonBazou.dll",
-"zipname": "",
-"isZip": "false",
+	"dllname": "derustableBolts_MonBazou.dll",
+	"zipname": "",
+	"isZip": "false",
     "disabled": "false",
     "reason": "",
-    "version": "1.1",
+    "version": "1.2",
     "gameversion": "0.256",
-    "description": "Allows you to derust your rusty bolts using a Rust Repair Kit. This mod also makes them infinitely useable.",
-    "releasedate": "10.02.2022"
+    "description": "Allows you to derust your rusty bolts using a Rust Repair Kit. This mod also makes the Rust Repair Kits infinitely useable.",
+    "releasedate": "11.02.2022"
+  },
+  {
+    "name": "Grab Anything",
+    "author": "Amenofisch#5368",
+    "imageurl": "",
+    "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/grabAnything_MonBazou.dll",
+	"dllname": "grabAnything_MonBazou.dll",
+	"zipname": "",
+	"isZip": "false",
+    "disabled": "false",
+    "reason": "",
+    "version": "1.0",
+    "gameversion": "0.256",
+    "description": "Allows you to pickup anything. Active / Deactivate using F7",
+    "releasedate": "11.02.2022"
   }
 ]
