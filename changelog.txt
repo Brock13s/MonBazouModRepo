@@ -1,1 +1,13 @@
-
+Version: 1.0 || Release Date: 11. February 2022 || Backup Changelog
+ 
+----------------
+Info			
+----------------
+ 
+First version released :)
+Please report all Bugs to Amenofisch#5368 on Discord
+ 
+ 
+Bugfixes
+----------------
+ 
