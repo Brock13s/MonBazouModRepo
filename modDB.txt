@@ -24,7 +24,7 @@
 	"isZip": "false",
     "disabled": "false",
     "reason": "",
-    "version": "1.2",
+    "version": "1.0",
     "gameversion": "0.256",
     "description": "Allows you to derust your rusty bolts using a Rust Repair Kit. This mod also makes the Rust Repair Kits infinitely useable.",
     "releasedate": "12.02.2022"
