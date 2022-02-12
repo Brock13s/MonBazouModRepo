@@ -11,7 +11,7 @@
     "reason": "",
     "version": "1.2",
     "gameversion": "0.256",
-    "description": "The first ever mod made for the game. Default Keybind to open the Menu is the 'Insert' button. You can also change this by pressing the 'Open BepInEx Config Folder' Button on the Main page of the Mod Manager and then opening 'com.monbazou.amenofisch.viefacile.cfg' and then changing the Keybind value to whatever button you want!",
+    "description": "A cheat menu. The first ever mod made for the game. Default Keybind to open the Menu is the 'Insert' button. You can also change this by pressing the 'Open BepInEx Config Folder' Button on the Main page of the Mod Manager and then opening 'com.monbazou.amenofisch.viefacile.cfg' and then changing the Keybind value to whatever button you want!",
     "releasedate": "12.02.2022"
   },
   {
@@ -22,8 +22,8 @@
 	"dllname": "derustableBolts_MonBazou.dll",
 	"zipname": "",
 	"isZip": "false",
-    "disabled": "false",
-    "reason": "",
+    "disabled": "true",
+    "reason": "Bug: can't derust anything except bolts. Will be fixed",
     "version": "1.0",
     "gameversion": "0.256",
     "description": "Allows you to derust your rusty bolts using a Rust Repair Kit. This mod also makes the Rust Repair Kits infinitely useable.",
@@ -41,7 +41,7 @@
     "reason": "",
     "version": "1.0",
     "gameversion": "0.256",
-    "description": "Allows you to pickup anything. Activate / Deactivate using F7. By holding the right mouse button, you can rotate it.",
+    "description": "Allows you to pickup anything. Activate / Deactivate using F7",
     "releasedate": "12.02.2022"
   },
   {
@@ -58,6 +58,21 @@
     "gameversion": "0.256",
     "description": "Allows you to plant anywhere.",
     "releasedate": "12.02.2022"
+  },
+{
+    "name": "BrightLife",
+    "author": "TheBoiiii#6841",
+    "imageurl": "",
+    "downloadurl": "https://raw.githubusercontent.com/Amenofisch/MonBazouModRepo/main/brightlife.dll",
+	"dllname": "brightlife.dll",
+	"zipname": "",
+	"isZip": "false",
+    "disabled": "true",
+    "reason": "Not done yet.",
+    "version": "1.0",
+    "gameversion": "0.256",
+    "description": "The second cheat menu for the game",
+    "releasedate": "not yet"
   },
   {
     "name": "ziptest",
