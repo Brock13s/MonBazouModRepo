@@ -41,7 +41,7 @@
     "reason": "",
     "version": "1.0",
     "gameversion": "0.256",
-    "description": "Allows you to pickup anything. Activate / Deactivate using F7",
+    "description": "Allows you to pickup anything. Activate / Deactivate using F7. By holding the right mouse button, you can rotate it.",
     "releasedate": "12.02.2022"
   },
   {
