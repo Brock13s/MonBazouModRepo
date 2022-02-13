@@ -1,15 +1,10 @@
-Version: 1.1 || Release Date: 13. February 2022 || Backup Changelog
+Version: 1.2 || Release Date: 14. February 2022 || Backup Changelog
  
 ----------------
 Info			
 ----------------
- 
-First update!! 
 
-- Added Auto Update for the Mod Manager
-- Changed the look of the mods list
-- Fixed some nasty bugs
-- Added more error codes for easier diagnostic
+- Fixed errors while installing BepInEx
  
  
 Bugfixes
