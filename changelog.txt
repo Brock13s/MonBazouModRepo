@@ -1,11 +1,15 @@
-Version: 1.0 || Release Date: 11. February 2022 || Backup Changelog
+Version: 1.1 || Release Date: 13. February 2022 || Backup Changelog
  
 ----------------
 Info			
 ----------------
  
-First version released :)
-Please report all Bugs to Amenofisch#5368 on Discord
+First update!! 
+
+- Added Auto Update for the Mod Manager
+- Changed the look of the mods list
+- Fixed some nasty bugs
+- Added more error codes for easier diagnostic
  
  
 Bugfixes
